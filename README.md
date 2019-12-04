@@ -1,1 +1,1 @@
-# javascript-html-css-certificate
+# Programming Foundations with JavaScript, HTML and CSS Certificate
